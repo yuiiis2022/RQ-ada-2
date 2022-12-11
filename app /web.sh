@@ -19,11 +19,11 @@ echo '{
                         "dest": 3001
                     },
                     {
-                        "path": "/c5a0fa34-8ec9-4b02-9e01-4e3a9e30e206-trojan",
+                        "path": "/'$id'-trojan",
                         "dest": 3002
                     },
                     {
-                        "path": "/c5a0fa34-8ec9-4b02-9e01-4e3a9e30e206-vmess",
+                        "path": "/'$id'-vmess",
                         "dest": 3003
                     }
                 ]
@@ -64,7 +64,7 @@ echo '{
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/c5a0fa34-8ec9-4b02-9e01-4e3a9e30e206-trojan"
+                    "path": "/'$id'-trojan"
                 }
             }
         },
@@ -83,7 +83,7 @@ echo '{
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/c5a0fa34-8ec9-4b02-9e01-4e3a9e30e206-vmess"
+                    "path": "/'$id'-vmess"
                 }
             }
         }
