@@ -19,11 +19,11 @@ echo '{
                         "dest": 3001
                     },
                     {
-                        "path": "/2779497e-8454-440d-a82b-7ff3891852c0-trojan",
+                        "path": "/5eb28357-ea19-48be-bb42-5fbf0899fd14-trojan",
                         "dest": 3002
                     },
                     {
-                        "path": "/2779497e-8454-440d-a82b-7ff3891852c0-vmess",
+                        "path": "/5eb28357-ea19-48be-bb42-5fbf0899fd14-vmess",
                         "dest": 3003
                     }
                 ]
@@ -64,7 +64,7 @@ echo '{
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/2779497e-8454-440d-a82b-7ff3891852c0-trojan"
+                    "path": "/5eb28357-ea19-48be-bb42-5fbf0899fd14-trojan"
                 }
             }
         },
@@ -83,7 +83,7 @@ echo '{
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/2779497e-8454-440d-a82b-7ff3891852c0-vmess"
+                    "path": "/5eb28357-ea19-48be-bb42-5fbf0899fd14-vmess"
                 }
             }
         }
